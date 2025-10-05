@@ -22,12 +22,12 @@ Ce projet permet d'automatiser l'installation des outils Amazon Vega Developer T
 
 Cloner le projet et exécuter le script principal :
 
-
+```sh
 git clone https://github.com/valorisa/vega-macos-env-bootstrap.git
 cd vega-macos-env-bootstrap
 chmod +x install_vega.sh
 ./install_vega.sh
-text
+```
 
 ## Documentation officielle Vega
 
