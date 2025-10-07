@@ -38,5 +38,5 @@ chmod +x install_vega.sh
 MIT
 
 ## Auteur
-valorisa (Oct. 2025)
+valorisa [Oct. 2025]
 
